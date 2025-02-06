@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Aytar</h1>
-<h3 align="center">Data Science & AI Enthusiast | Exploring Machine Learning & Deep Learning</h3>
+<h3 align="center">Data Science & AI Enthusiast | Exploring Machine Learning & Deep Learning | Computer Vision Learning </h3>
 
 
 - 📫 How to reach me **a.bugraaytar@gmail.com**

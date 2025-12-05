@@ -21,9 +21,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🪙 Gold Price Prediction](https://github.com/Xiast-sw/gold-price-prediction) | 6-month gold price forecasting using LSTM | LSTM, TensorFlow, Pandas |
-| [🏠 HomePrice-AI](https://github.com/Xiast-sw/HomePrice-AI) | Desktop app for house price prediction using Multiple Linear Regression | Python, Scikit-learn, Tkinter |
-| [₿ BTC Price Prediction](https://github.com/Xiast-sw/BTC-price-prediction) | Bitcoin 2025 price forecasting using LSTM | LSTM, TensorFlow, Pandas |
+| [Gold Price Prediction](https://github.com/Xiast-sw/gold-price-prediction) | 6-month gold price forecasting using LSTM | LSTM, TensorFlow, Pandas |
+| [HomePrice-AI](https://github.com/Xiast-sw/HomePrice-AI) | Desktop app for house price prediction using Multiple Linear Regression | Python, Scikit-learn, Tkinter |
+| [BTC Price Prediction](https://github.com/Xiast-sw/BTC-price-prediction) | Bitcoin 2025 price forecasting using LSTM | LSTM, TensorFlow, Pandas |
 
 ---
 

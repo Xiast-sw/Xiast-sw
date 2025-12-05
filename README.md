@@ -60,11 +60,9 @@
 
 ## 📊 GitHub Stats
 
-![Xiast-sw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiast-sw&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiast-sw&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Xiast-sw&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xiast-sw&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
